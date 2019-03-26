@@ -4,4 +4,22 @@ h1, h2, h3, h4, h5, h6{font-family: 'Noto Sans TC', sans-serif;
 }
 .bg-primary {
 	background-color: #ffdbe4!important;
-	background-image: url("https://www.transparenttextures.com/patterns/squared-metal.png");
+background-image: url("https://www.transparenttextures.com/patterns/squared-metal.png");}
+
+.nav-item a .nav-link js-scroll-trigger{
+	color:#75c7f9!important;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #75c7f9;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #75c7f9;
+}
+.text-primary {
+	color: #ffdbe4!important
+}
+h1 .text-primary {
+text-transform:capitalize;
+}
