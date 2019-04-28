@@ -57,7 +57,7 @@ td {
 	border-color: #000;
 }
 
-tr:nth-child(even) {
+tr:nth-child(odd) {
 	background-color: #ffe5e8;
 }
 
