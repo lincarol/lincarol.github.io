@@ -48,7 +48,7 @@ th {
 	border-style: solid;
 	border-color: #000;
 	color: #fff;
-	background-color: #ffe5e8;
+	background-color: #000;
 }
 
 td {
@@ -58,7 +58,7 @@ td {
 }
 
 tr:nth-child(even) {
-	background-color: #aaa;
+	background-color: #ffe5e8;
 }
 
 td:first-child {
